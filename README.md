@@ -1,4 +1,4 @@
 # yt-node-downloader
 YouTube downloader written in nodeJS
 
-run ### npm install 
+run npm install 
